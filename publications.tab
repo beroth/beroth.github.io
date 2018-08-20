@@ -1,0 +1,59 @@
+B. Roth, C. Conforti, N. Pörner, S. Karn and H. Schütze.	Neural Architectures for Open-Type Relation Argument Extraction.	preprint, 2018	preprint	https://arxiv.org/abs/1803.01707
+
+N. Pörner, H. Schütze, B. Roth.	Evaluating neural network explanation methods using hybrid documents and morphological prediction.	ACL 2018.	pdf	http://arxiv.org/abs/1801.06422
+
+P. Gupta, B. Roth, H. Schütze.	Joint Bootstrapping Machines for High Confidence Relation Extraction.	NAACL 2018.	pdf	http://aclweb.org/anthology/N18-1003
+
+M. Schulder, M. Wiegand, J. Ruppenhofer and B. Roth.	Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features.	IJCNLP 2017.	pdf	http://aclweb.org/anthology/I17-1063
+
+H. Adel, B. Roth and H. Schütze.	Comparing Convolutional Neural Networks to Traditional Models for Slot Filling.	NAACL 2016.	pdf	http://arxiv.org/pdf/1603.05157v2.pdf
+
+P. Verga, D. Belanger, E. Strubell, B. Roth, and A. McCallum.	Multilingual Relation Extraction using Compositional Universal Schema.	NAACL, 2016.	pdf	http://arxiv.org/pdf/1511.06396v2.pdf
+
+M. Schuhmacher, B. Roth, S. Ponzetto and L. Dietz.	Finding Relevant Relations in Relevant Documents.	ECIR 2016.	pdf	http://web.informatik.uni-mannheim.de/dietz/relrel/schuhmacher-2016-relrel.pdf
+
+B. Roth, N. Monath, D. Belanger, E. Strubell, P. Verga, A. McCallum.	Building Knowledge Bases with Universal Schema: Cold Start and Slot-Filling Approaches.	NIST Text Analysis Conference 2015.	pdf	https://people.cs.umass.edu/~pat/pdfs/tac_workshop.pdf
+
+A. Neelakantan, B. Roth and A. McCallum.	Compositional Vector Space Models for Knowledge Base Completion.	ACL 2015.	pdf	https://people.cs.umass.edu/~arvind/acl2015.pdf
+
+M. Wiegand, B. Roth and D. Klakow.	Combining Pattern-based and Distributional Similarity for Graph-based Noun Categorization.	NLDB 2015.	pdf	https://www.lsv.uni-saarland.de/fileadmin/publications/2015/nldb2015.pdf
+
+B. Roth, E. Strubell, K. Silverstein and A. McCallum.	Minimally Supervised Event Argument Extraction using Universal Schema.	NIPS 2014 Workshop on Knowledge Extraction (AKBC).	pdf	http://www.akbc.ws/2014/submissions/akbc2014_submission_26.pdf
+
+A. Neelakantan, B. Roth and A. McCallum.	Knowledge Base Completion using Compositional Vector Space Models.	NIPS 2014 Workshop on Knowledge Extraction (AKBC).	pdf	http://www.akbc.ws/2014/submissions/akbc2014_submission_10.pdf
+
+M. Wiegand, B. Roth and D. Klakow.	Automatic Food Categorization from Large Unlabeled Corpora and Its Impact on Relation Extraction.	EACL 2014.	pdf	http://www.aclweb.org/anthology/E/E14/E14-1071.pdf
+
+B. Roth, T. Barth, G. Chrupala, M. Gropp, D. Klakow.	RelationFactory: A Fast, Modular and Effective System for Knowledge Base Population.	EACL 2014 (software demo).	pdf	http://www.aclweb.org/anthology/E/E14/E14-2023.pdf
+
+J. Illig, B. Roth and D. Klakow.	Unsupervised Parsing for Generating Surface-Based Relation Extraction Patterns.	EACL 2014.	pdf	http://www.aclweb.org/anthology/E/E14/E14-4020.pdf
+
+B. Roth, T. Barth, M. Wiegand, M. Singh, D. Klakow.	Effective Slot Filling Based on Shallow Distant Supervision Methods.	NIST Text Analysis Conference 2013.	pdf	http://www.nist.gov/tac/publications/2013/participant.papers/lsv.TAC2013.proceedings.pdf
+
+B. Roth, D. Klakow.	Combining Generative and Discriminative Model Scores for Distant Supervision.	EMNLP 2013.	pdf	http://aclweb.org/anthology//D/D13/D13-1003.pdf
+
+B. Roth, D. Klakow.	Feature-Based Models for Improving the Quality of Noisy Training Data for Relation Extraction.	CIKM 2013.	pdf	https://sites.google.com/site/rothbenj/about-me/cikm-roth.pdf?attredirects=0
+
+B. Roth, T. Barth, M. Wiegand, D. Klakow.	A Survey of Noise Reduction Methods for Distant Supervision.	CIKM 2013 Workshop on Knowledge Extraction (AKBC).	pdf	https://sites.google.com/site/rothbenj/about-me/noise_reduction_final.pdf?attredirects=0
+
+M. Wiegand, B. Roth, D. Klakow.	Web-based Relation Extraction for the Food Domain.	NLDB 2012.	pdf	https://www.lsv.uni-saarland.de/fileadmin/publications/foodRels.pdf
+
+B. Roth, G. Chrupala, M. Wiegand, M. Singh, D. Klakow.	Generalizing from Freebase and Patterns using Distant Supervision for Slot Filling.	NIST Text Analysis Conference 2012.	pdf	https://www.lsv.uni-saarland.de/fileadmin/publications/TAC2012.pdf
+
+M. Wiegand, B. Roth, D. Klakow.	Knowledge Acquisition with Natural Language Processing in the Food Domain: Potential and Challenges.	ECAI 2012 Workshop: Cooking with Computers.	pdf	http://liris.cnrs.fr/cwc/cwc2012/cwc2012_submission_1.pdf
+
+M. Wiegand, B. Roth, D. Klakow.	Data-driven Knowledge Extraction for the Food Domain.	KONVENS 2012.	pdf	http://www.oegai.at/konvens2012/proceedings/07_wiegand12o/07_wiegand12o.pdf
+
+M. Wiegand, B. Roth, E. Lasarcyk, S. Köser, D. Klakow.	A Gold Standard for Relation Extraction in the Food Domain.	LREC 2012.	pdf	http://www.lrec-conf.org/proceedings/lrec2012/pdf/136_Paper.pdf
+
+B. Roth, A. McCallum, M. Dymetman and N. Cancedda.	Machine Translation Using Overlapping Alignments and SampleRank.	AMTA 2010.	pdf	http://amta2010.amtaweb.org/AMTA/papers/2-31-RothMcCallumEtal.pdf
+
+G. Chrupala, G. Dinu and B. Roth.	Enriched Syntax-based Meaning Representation for Answer Extraction.	SIGIR 2010 Workshop: Query Representation and Understanding.	pdf	https://sites.google.com/site/rothbenj/about-me/sigir-qr-2010-fixed.pdf?attredirects=0
+
+B. Roth and D. Klakow.	Cross-Language Retrieval Using Link-Based Language Models.	SIGIR 2010.	pdf	https://www.lsv.uni-saarland.de/fileadmin/publications/sigir2010-link-lm-clir.pdf
+
+L. Li, B. Roth and C. Sporleder.	Topic Models for Word Sense Disambiguation and Token-Based Idiom Detection.	ACL 2010.	pdf	http://aclweb.org/anthology//P/P10/P10-1116.pdf
+
+M. Wiegand, A. Balahur, B. Roth, D. Klakow and A. Montoyo.	A Survey on the Role of Negation in Sentiment Analysis.	2010 Workshop on Negation and Speculation in NLP.	pdf	http://aclweb.org/anthology//W/W10/W10-3111.pdf
+
+B. Roth and D. Klakow.	Combining Wikipedia-Based Concept Models for Cross-Language Retrieval.	IRF Conference 2010.	pdf	https://www.lsv.uni-saarland.de/fileadmin/publications/irf2010-combining-wikipedia-clir.pdf

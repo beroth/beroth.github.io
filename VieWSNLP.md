@@ -7,10 +7,10 @@
 |---|---|
 |13:00-13:05 | Introduction |
 |13:05-13:25 | **Invited talk:** [Pierre Lison](https://home.nr.no/~plison/), Norsk Regnesentral and University of Oslo |
-||"Skweak: Weak Supervision Made Easy for NLP"  |
+||"[Skweak](https://github.com/NorskRegnesentral/skweak): Weak Supervision Made Easy for NLP"  |
 |13:25-13:35 | Discussion  |
 |13:35-13:50 | [Benjamin Roth](http://www.benjaminroth.net/), University of Vienna |
-||"Knodle: Modular Weakly Supervised Learning with PyTorch"  |
+||"[Knodle](https://github.com/knodle/knodle): Modular Weakly Supervised Learning with PyTorch"  |
 |13:50-14:00 | Discussion  |
 | **Session 2** ||
 |14:00-14:45 | **Invited talk:** [Michael A. Hedderich](https://www.michael-hedderich.de/), Saarland University |

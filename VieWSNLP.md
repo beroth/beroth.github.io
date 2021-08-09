@@ -26,4 +26,4 @@
 |16:00-17:00|Possibility for 1-on-1's|
 || (Please contact each other before/during the workshop, via email/Zoom chat)|
 |||
-| 18:00 | Socializing @ Gigerl Stadtheuriger in Vienna (needs test/vaccination certificate)|
+| 18:00 | Socializing @ [Gigerl Stadtheuriger](https://www.gigerl.at/) (needs test/vaccination certificate)|

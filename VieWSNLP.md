@@ -11,12 +11,12 @@
 |13:35-13:50 | Benjamin Roth: "Knodle: Modular Weakly Supervised Learning with PyTorch"  |
 |13:50-14:00 | Discussion  |
 
-Session 2 - @Data Mining & ML lab meeting
-14:00-14:45 Michael Hedderich: 
-            invited talk
-14:45-15:00 Discussion
+|Session 2 | @Data Mining & ML lab meeting|
+|14:00-14:45 | Michael Hedderich:  |
+| | invited talk |
+|14:45-15:00 | Discussion |
 
-15:00-15:10 Break
+|15:00-15:10 | Break |
 
 Session 3
 15:10-15:15 Fabian Plett: "Interactive Weak Supervision (planned project)"

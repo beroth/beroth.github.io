@@ -1,5 +1,5 @@
 # VieWSNLP
-## Vienna Half-day Workshop on Weak Supervision and Natural Language Processing
+## Vienna Workshop on Weak Supervision and Natural Language Processing
 ### August 12, 2021
 
 |**Session 1**||

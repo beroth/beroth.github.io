@@ -15,7 +15,6 @@
 | **Session 2** ||
 |14:00-14:45 | **Invited talk:** [Michael A. Hedderich](https://www.michael-hedderich.de/), Saarland University |
 || "Low-Resource NLP: Leveraging Recent Approaches and Studying Their Applicability" |
-| | invited talk |
 |14:45-15:00 | Discussion |
 |||
 |15:00-15:10 | Break |

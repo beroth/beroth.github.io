@@ -10,7 +10,6 @@
 |13:25-13:35 | Discussion  |
 |13:35-13:50 | Benjamin Roth: "Knodle: Modular Weakly Supervised Learning with PyTorch"  |
 |13:50-14:00 | Discussion  |
-
 |Session 2 | @Data Mining & ML lab meeting|
 |---|---|
 |14:00-14:45 | Michael Hedderich:  |

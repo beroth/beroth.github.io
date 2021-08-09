@@ -12,6 +12,7 @@
 |13:50-14:00 | Discussion  |
 
 |Session 2 | @Data Mining & ML lab meeting|
+|---|---|
 |14:00-14:45 | Michael Hedderich:  |
 | | invited talk |
 |14:45-15:00 | Discussion |

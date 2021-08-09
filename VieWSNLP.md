@@ -1,6 +1,7 @@
 # VieWSNLP
 ## Vienna Workshop on Weak Supervision and Natural Language Processing
-### August 12, 2021 @Research Group Data Mining and Machine Learning, University of Vienna
+### @Research Group Data Mining and Machine Learning, University of Vienna
+### August 12, 2021
 
 |**Session 1**||
 |---|---|

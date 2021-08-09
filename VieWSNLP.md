@@ -19,7 +19,7 @@
 |**Session 3**||
 |15:10-15:15| Fabian Plett: "Interactive Weak Supervision (planned project)"|
 |15:15-15:20| Discussion|
-|15:20-15:30| Andreas Stephan: "Weak Supervision using Tactable Density Estimation"|
+|15:20-15:30| Andreas Stephan: "Weak Supervision using Tractable Density Estimation"|
 |15:30-15:35| Discussion|
 |15:35-15:55| Roundtable (all)|
 |||

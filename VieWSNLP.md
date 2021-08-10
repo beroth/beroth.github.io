@@ -1,6 +1,7 @@
 # VieWSNLP
 ## Vienna Workshop on Weak Supervision and Natural Language Processing
 ### @[Research Group Data Mining and Machine Learning](https://dm.cs.univie.ac.at/), University of Vienna
+### virtual, for Zoom link please contact Benjamin Roth \[firstname.lastname@univie.ac.at\]
 ### August 12, 2021
 
 |**Session 1**||

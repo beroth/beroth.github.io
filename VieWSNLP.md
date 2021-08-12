@@ -23,12 +23,11 @@
 |15:10-15:15| Fabian Plett, LMU Munich|
 ||"Interactive Weak Supervision (planned project)"|
 |15:15-15:20| Discussion|
-|15:20-15:30| [Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/), University of Vienna|
-|| "Weak Supervision using Tractable Density Estimation"|
-|15:30-15:35| Discussion|
-|15:35-15:55| Roundtable (all)|
+|~~15:20-15:30~~| ~~[Andreas Stephan](https://dm.cs.univie.ac.at/team/person/114424/), University of Vienna~~|
+|| ~~"Weak Supervision using Tractable Density Estimation"~~ **cancelled**|
+|15:20-15:40| Roundtable (all)|
 |||
-|16:00-17:00|Possibility for 1-on-1's|
+|15:45-16:45|Possibility for 1-on-1's|
 || (Please contact each other before/during the workshop, via email/Zoom chat)|
 |||
 | 18:00 | Socializing @ [Gigerl Stadtheuriger](https://www.gigerl.at/) (needs test/vaccination certificate)|
